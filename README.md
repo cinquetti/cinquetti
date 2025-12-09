@@ -2,6 +2,8 @@
 
 I'm a Software Engineereing Student at INATEL with an interest, and professional experience, in Data Science, ML and IA. 
 
+![Snake animation](./dist/snake.svg)
+
 ### 🧠 Data Science & Data Analysis
 
 The main technologies I work with for Data Science and Data Analysis include:
@@ -61,11 +63,10 @@ For more information, feel free to check my LinkedIn page using the link below.
 ## 💼 Contact
 [LinkedIn](https://www.linkedin.com/in/lucas-cinquetti-261339270/)
 
-
-![Snake animation](./dist/snake.svg)
-
+## Github Contribution Graph
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=cinquetti&theme=dracula)
 
+## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cinquetti&layout=compact&theme=dracula)
 
 
