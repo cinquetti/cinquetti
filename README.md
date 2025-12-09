@@ -57,17 +57,18 @@ Besides Python, I also have experience working with:
 
 For more information, feel free to check my LinkedIn page using the link below.
 
-## 📊 Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cinquetti&show_icons=true&theme=dracula)
-
 ## 💼 Contact
 [LinkedIn](https://www.linkedin.com/in/lucas-cinquetti-261339270/)
 
-## Github Contribution Graph
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cinquetti&show_icons=true&theme=dracula)
+
+## 🏆 Top Languages
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cinquetti&layout=compact&theme=dracula)
+
+## 📊 GitHub Contribution Graph
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=cinquetti&theme=dracula)
 
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cinquetti&layout=compact&theme=dracula)
 
 
 <!--

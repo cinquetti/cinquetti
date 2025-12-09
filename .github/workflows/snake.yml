@@ -19,7 +19,7 @@ jobs:
       - uses: Platane/snk@v3
         id: snake
         with:
-          github_user_name: lucas-cinquetti
+          github_user_name: cinquetti
           outputs: dist/snake.svg
 
       - uses: actions/upload-artifact@v4
