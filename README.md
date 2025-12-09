@@ -62,6 +62,13 @@ For more information, feel free to check my LinkedIn page using the link below.
 [LinkedIn](https://www.linkedin.com/in/lucas-cinquetti-261339270/)
 
 
+![Snake animation](./dist/snake.svg)
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=cinquetti&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cinquetti&layout=compact&theme=dracula)
+
+
 <!--
 **cinquetti/cinquetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
