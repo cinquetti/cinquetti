@@ -2,7 +2,12 @@
 
 I'm a Software Engineereing Student at INATEL with an interest, and professional experience, in Data Science, ML and IA. 
 
-![Snake animation](./dist/snake.svg)
+![Snake animation](./dist/snake.svg#gh-light-mode-only)
+![Snake animation](./dist/snake-dark.svg#gh-dark-mode-only)
+
+![Top Languages](https://img.shields.io/github/languages/count/cinquetti/cinquetti?style=for-the-badge)
+
+![Main Language](https://img.shields.io/github/languages/top/cinquetti/cinquetti)
 
 ### 🧠 Data Science & Data Analysis
 
@@ -60,16 +65,8 @@ For more information, feel free to check my LinkedIn page using the link below.
 ## 💼 Contact
 [LinkedIn](https://www.linkedin.com/in/lucas-cinquetti-261339270/)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cinquetti&show_icons=true&theme=dracula)
-
-## 🏆 Top Languages
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cinquetti&layout=compact&theme=dracula)
-
 ## 📊 GitHub Contribution Graph
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=cinquetti&theme=dracula)
-
-
 
 <!--
 **cinquetti/cinquetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

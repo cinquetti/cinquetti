@@ -16,18 +16,27 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: Platane/snk@v3
-        id: snake
+      - name: Generate Snake (Light)
+        uses: Platane/snk@v3
         with:
           github_user_name: cinquetti
           outputs: dist/snake.svg
 
+      - name: Generate Snake (Dark)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: cinquetti
+          color_snake: "#39D353"
+          color_dots: "#0D1117"
+          outputs: dist/snake-dark.svg
+
       - uses: actions/upload-artifact@v4
         with:
           name: snake
-          path: dist/snake.svg
+          path: dist/
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Generate Snake"
-          file_pattern: dist/snake.svg
+          file_pattern: dist/*.svg
+
