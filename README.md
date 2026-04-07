@@ -2,8 +2,8 @@
 
 I'm a Software Engineereing Student at INATEL with an interest, and professional experience, in Data Science, ML and IA. 
 
-![Snake animation](./dist/snake-dark.svg#gh-dark-mode-only)
-![Snake animation](./dist/snake.svg#gh-light-mode-only)
+![Snake animation](https://cinquetti.github.io/cinquetti/snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://cinquetti.github.io/cinquetti/snake.svg#gh-light-mode-only)
 
 
 ### 🧠 Data Science & Data Analysis
